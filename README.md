@@ -1,2 +1,2 @@
-# crazymind
-a site for my crazy mind!
+# beginnings 
+a site for a start!
