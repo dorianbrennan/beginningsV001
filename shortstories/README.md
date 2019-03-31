@@ -1,7 +1,7 @@
 # short stories 
 
 
-<H3> The old man and the painting </H3>
+The old man and the painting
 An old man is holding his wife’s hand.
 They are reminiscing about the lives they had. What they have done. Where they have travelled. The children they have raised.
 The wife brings up the painting that defined their youth. It always brings a smile to them both.
