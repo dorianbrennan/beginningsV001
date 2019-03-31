@@ -6,6 +6,6 @@ a site for a start!
 [twitter](https://twitter.com/dorian_brennan "twitter")
 
 ---
-
+<p align="center">
 ![wombat logo](https://dorianbrennan.github.io/beginnings/images/logosmall.png)
 
