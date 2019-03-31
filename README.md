@@ -7,5 +7,5 @@ a site for a start!
 
 ---
 <p align="center">
-  <img src="https://dorianbrennan.github.io/beginnings/images/logosmall.png" width="256" title="wombat">
+  <img src="https://dorianbrennan.github.io/beginnings/images/logosmall.png" width="100" title="wombat">
 </p>
