@@ -1,7 +1,7 @@
 # beginnings 
 begin!
 
-[stories](https://dorianbrennan.github.io/beginnings/shortstories/README.md) 
+[stories](https://dorianbrennan.github.io/beginnings/shortstories/ss.md) 
 
 [twitter](https://twitter.com/dorian_brennan "twitter")
 
