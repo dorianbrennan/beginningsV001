@@ -1,5 +1,5 @@
 # beginnings 
-a site for a start!
+begin!
 
 [stories](https://dorianbrennan.github.io/beginnings/shortstories) 
 
