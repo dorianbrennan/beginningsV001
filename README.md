@@ -4,7 +4,7 @@
 
 [short stories](testss.md)
 
-[photography] (photos.md)
+[photography](photos.md)
       
 [twitter](https://twitter.com/dorian_brennan "twitter")
 
