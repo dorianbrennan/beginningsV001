@@ -3,7 +3,7 @@
 
 ---
 
-[short stories](testss.md)       
+[short stories](shortstories/stories.md)     
 
       
 [photography](photos.md)
@@ -20,7 +20,3 @@
 <p align="center">
   <img src="https://dorianbrennan.github.io/beginnings/images/logosmall.png" width="70" title="space wombat">
 </p>
-
-
-
-[short stories](shortstories/stories.md)  
