@@ -3,8 +3,10 @@
 
 ---
 
-[short stories](stories.md)       
+[short stories](beginnings/shortstories/stories.md)       
 
+        
+      
 [photography](photos.md)
 
 [about](about.md)
