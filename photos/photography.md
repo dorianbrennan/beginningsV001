@@ -2,4 +2,4 @@
 #### A curated selection of works.
 
 
-[Ocean](ocean.md)
+[Ocean Collection](ocean.md)
