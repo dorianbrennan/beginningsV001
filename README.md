@@ -23,4 +23,4 @@
 
 
 
-[short stories](stories.md)  
+[short stories](shortstories/stories.md)  
