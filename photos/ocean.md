@@ -1,1 +1,3 @@
-# Ocean 
+# Photography 
+
+[Ocean](ocean.md)
