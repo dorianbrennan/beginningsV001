@@ -1,10 +1,11 @@
 # beginnings 
 by dorian 
-
+---
 
 [short stories](testss.md)
       
 [twitter](https://twitter.com/dorian_brennan "twitter")
+
 [instagram](https://www.instagram.com/dorian_brennan/ "instagram")
 
 ---
