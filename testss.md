@@ -2,32 +2,6 @@
 
 <h5> the old man and the painting </h5>
 
-
-<h1>A First Level Header</h1>
-
-<h2>A Second Level Header</h2>
-
-<p>Now is the time for all good men to come to
-the aid of their country. This is just a
-regular paragraph.</p>
-
-<p>The quick brown fox jumped over the lazy
-dog's back.</p>
-
-<h3>Header 3</h3>
-
-<blockquote>
-    <p>This is a blockquote.</p>
-
-    <p>This is the second paragraph in the blockquote.</p>
-
-    <h2>This is an H2 in a blockquote</h2>
-</blockquote>
-
-
-#this is a test
-
-
 <p>An old man is holding his wife’s hand. 
 They are reminiscing about the lives they had. What they have done. Where they have travelled. The children they have raised. 
 The wife brings up the painting that defined their youth. It always brings a smile to them both. 
