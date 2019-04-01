@@ -1,6 +1,6 @@
 <h1> short stories </h1>
 
-<h5> the old man and the painting </h5>
+<h5> 001 - The Old Man and The Painting </h5>
 
 <p>An old man is holding his wife’s hand. 
 They are reminiscing about the lives they had. What they have done. Where they have travelled. The children they have raised. 
