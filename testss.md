@@ -1,5 +1,3 @@
-#this is a test
+<h1> short stories </h1>
 
-####The old man and the painting 
-
-<h1> this is a test </h1>
+<h5> the old man and the painting </h5>
