@@ -6,7 +6,7 @@
 [short stories](shortstories/stories.md)     
 
       
-[photography](photos/ocean.md)
+[photography](photos/photography.md)
 
 [about](about.md)
 
