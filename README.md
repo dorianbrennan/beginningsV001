@@ -3,9 +3,8 @@
 
 ---
 
-[short stories](beginnings/shortstories/stories.md)       
+[short stories](https://dorianbrennan.github.io/beginnings/shortstories/stories.md)       
 
-        
       
 [photography](photos.md)
 
