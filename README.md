@@ -6,7 +6,11 @@
 [short stories](testss.md)
 
 [photography](photos.md)
-      
+
+[about](about.md)
+
+---
+
 [twitter](https://twitter.com/dorian_brennan "twitter")
 
 [instagram](https://www.instagram.com/dorian_brennan/ "instagram")
