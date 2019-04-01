@@ -13,7 +13,7 @@
 
 ---
 <p align="center">
-  <img src="https://dorianbrennan.github.io/beginnings/images/logosmall.png" width="70" title="wombat">
+  <img src="https://dorianbrennan.github.io/beginnings/images/logosmall.png" width="70" title="space wombat">
 </p>
 
 
