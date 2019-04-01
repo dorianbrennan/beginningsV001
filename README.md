@@ -3,7 +3,7 @@
 
 ---
 
-[short stories](testss.md)
+[short stories](stories.md)       
 
 [photography](photos.md)
 
