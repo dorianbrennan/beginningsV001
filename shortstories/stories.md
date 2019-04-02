@@ -21,7 +21,6 @@ The father walks over to the old man and taps him on the shoulder.
 >
 >The old mans eyes stay closed.
 
----
 
 ---
 <p align="center">
