@@ -23,3 +23,7 @@ The father walks over to the old man and taps him on the shoulder.
 
 ---
 
+---
+<p align="center">
+  <img src="https://dorianbrennan.github.io/beginnings/images/logosmall.png" width="70" title="space wombat">
+</p>
