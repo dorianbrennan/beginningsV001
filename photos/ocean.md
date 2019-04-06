@@ -7,7 +7,7 @@
 March 31st
 
 <p align="centre">
-  <img src="PhotoAssets/DB_Ocean_002.png" width="600" title="db_ocean_002">
+  <img src="PhotoAssets/DB_Ocean_002.jpeg" width="600" title="db_ocean_002">
 </p>
 April 7th
 
