@@ -22,9 +22,8 @@
 [github](https://github.com/dorianbrennan/beginnings "github")
 
 ---
-<p align="center">
-  <img src="/images/logosmall.png" width="70" title="space wombat"> 
-</p>
+<center><img src="/images/logosmall.png" width="70" title="space wombat"></center> 
+
 
 <center>[![logosmall.png](/images/logosmall.png)](about.md)</center>
 
