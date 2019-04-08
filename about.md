@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # about
 
 ### Welcome - April 2019
