@@ -23,5 +23,7 @@
 
 ---
 <p align="center">
-  <img src="https://dorianbrennan.github.io/beginnings/images/logosmall.png" width="70" title="space wombat">
+  <img src="https://dorianbrennan.github.io/beginnings/images/logosmall.png" width="70" title="space wombat" [about](about.md)> 
 </p>
+
+[![logosmall.png](https://dorianbrennan.github.io/beginnings/images/logosmall.png)](about.md)
