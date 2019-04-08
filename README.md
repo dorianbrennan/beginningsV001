@@ -26,6 +26,6 @@
   <img src="/images/logosmall.png" width="70" title="space wombat"> 
 </p>
 
-[![logosmall.png](/images/logosmall.png)](about.md)
+<center>[![logosmall.png](/images/logosmall.png)](about.md)</center>
 
 [![logosmall](/images/logosmall.png)](about.md) 
