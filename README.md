@@ -27,3 +27,5 @@
 </p>
 
 [![logosmall.png](/images/logosmall.png)](about.md)
+
+[![logosmall](/images/logosmall.png)](about.md) 
