@@ -1,6 +1,4 @@
----
-layout: minima
----
+
 
 #### by dorian
 
